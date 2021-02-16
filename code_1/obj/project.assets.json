@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/seanwang/dotnetdev/code_1/code_1.csproj",
+      "projectUniqueName": "/Users/seanwang/dotnetlLearning/code_1/code_1.csproj",
       "projectName": "code_1",
-      "projectPath": "/Users/seanwang/dotnetdev/code_1/code_1.csproj",
+      "projectPath": "/Users/seanwang/dotnetlLearning/code_1/code_1.csproj",
       "packagesPath": "/Users/seanwang/.nuget/packages/",
-      "outputPath": "/Users/seanwang/dotnetdev/code_1/obj/",
+      "outputPath": "/Users/seanwang/dotnetlLearning/code_1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/seanwang/.nuget/NuGet/NuGet.Config"
