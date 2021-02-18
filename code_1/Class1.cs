@@ -5,24 +5,24 @@ namespace code_1
     class Test
     {
         //     // 定义私有的整型字段 id
-        //     private int id;
+            private int id;
 
-        //     // 定义公有的只读字符串类型字段 name
-        //     public readonly string name;
+            // 定义公有的只读字符串类型字段 name
+            public readonly string name;
 
-        //     // 定义内部的静态的整型字段 age
-        //     internal static int age;
+            // 定义内部的静态的整型字段 age
+            internal static int age;
 
-        //     // 定义私有的字符串类型常量 major
-        //     private const string major = "计算机";
+            // 定义私有的字符串类型常量 major
+            private const string major = "计算机";
 
-        //     private void PringMsg()
-        //     {
-        //         System.Console.WriteLine("编号：" + id);
-        //         System.Console.WriteLine("姓名：" + name);
-        //         System.Console.WriteLine("年龄：" + age);
-        //         System.Console.WriteLine("专业：" + major);
-        //     }
+            private void PringMsg()
+            {
+                System.Console.WriteLine("编号：" + id);
+                System.Console.WriteLine("姓名：" + name);
+                System.Console.WriteLine("年龄：" + age);
+                System.Console.WriteLine("专业：" + major);
+            }
 
     }
 

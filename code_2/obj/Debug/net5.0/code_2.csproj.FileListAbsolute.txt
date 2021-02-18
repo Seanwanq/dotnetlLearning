@@ -1,0 +1,15 @@
+/Users/seanwang/dotnetlLearning/code_2/bin/Debug/net5.0/code_2.deps.json
+/Users/seanwang/dotnetlLearning/code_2/bin/Debug/net5.0/code_2.runtimeconfig.json
+/Users/seanwang/dotnetlLearning/code_2/bin/Debug/net5.0/code_2.runtimeconfig.dev.json
+/Users/seanwang/dotnetlLearning/code_2/bin/Debug/net5.0/code_2.dll
+/Users/seanwang/dotnetlLearning/code_2/bin/Debug/net5.0/ref/code_2.dll
+/Users/seanwang/dotnetlLearning/code_2/bin/Debug/net5.0/code_2.pdb
+/Users/seanwang/dotnetlLearning/code_2/obj/Debug/net5.0/code_2.csprojAssemblyReference.cache
+/Users/seanwang/dotnetlLearning/code_2/obj/Debug/net5.0/code_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seanwang/dotnetlLearning/code_2/obj/Debug/net5.0/code_2.AssemblyInfoInputs.cache
+/Users/seanwang/dotnetlLearning/code_2/obj/Debug/net5.0/code_2.AssemblyInfo.cs
+/Users/seanwang/dotnetlLearning/code_2/obj/Debug/net5.0/code_2.csproj.CoreCompileInputs.cache
+/Users/seanwang/dotnetlLearning/code_2/obj/Debug/net5.0/code_2.dll
+/Users/seanwang/dotnetlLearning/code_2/obj/Debug/net5.0/ref/code_2.dll
+/Users/seanwang/dotnetlLearning/code_2/obj/Debug/net5.0/code_2.pdb
+/Users/seanwang/dotnetlLearning/code_2/obj/Debug/net5.0/code_2.genruntimeconfig.cache
