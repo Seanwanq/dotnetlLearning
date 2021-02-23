@@ -1,0 +1,16 @@
+E:\dotnetlLearning\dotnetlLearning\sealed_ex\bin\Debug\net5.0\sealed_ex.exe
+E:\dotnetlLearning\dotnetlLearning\sealed_ex\bin\Debug\net5.0\sealed_ex.deps.json
+E:\dotnetlLearning\dotnetlLearning\sealed_ex\bin\Debug\net5.0\sealed_ex.runtimeconfig.json
+E:\dotnetlLearning\dotnetlLearning\sealed_ex\bin\Debug\net5.0\sealed_ex.runtimeconfig.dev.json
+E:\dotnetlLearning\dotnetlLearning\sealed_ex\bin\Debug\net5.0\sealed_ex.dll
+E:\dotnetlLearning\dotnetlLearning\sealed_ex\bin\Debug\net5.0\ref\sealed_ex.dll
+E:\dotnetlLearning\dotnetlLearning\sealed_ex\bin\Debug\net5.0\sealed_ex.pdb
+E:\dotnetlLearning\dotnetlLearning\sealed_ex\obj\Debug\net5.0\sealed_ex.csprojAssemblyReference.cache
+E:\dotnetlLearning\dotnetlLearning\sealed_ex\obj\Debug\net5.0\sealed_ex.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnetlLearning\dotnetlLearning\sealed_ex\obj\Debug\net5.0\sealed_ex.AssemblyInfoInputs.cache
+E:\dotnetlLearning\dotnetlLearning\sealed_ex\obj\Debug\net5.0\sealed_ex.AssemblyInfo.cs
+E:\dotnetlLearning\dotnetlLearning\sealed_ex\obj\Debug\net5.0\sealed_ex.csproj.CoreCompileInputs.cache
+E:\dotnetlLearning\dotnetlLearning\sealed_ex\obj\Debug\net5.0\sealed_ex.dll
+E:\dotnetlLearning\dotnetlLearning\sealed_ex\obj\Debug\net5.0\ref\sealed_ex.dll
+E:\dotnetlLearning\dotnetlLearning\sealed_ex\obj\Debug\net5.0\sealed_ex.pdb
+E:\dotnetlLearning\dotnetlLearning\sealed_ex\obj\Debug\net5.0\sealed_ex.genruntimeconfig.cache

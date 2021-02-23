@@ -1,0 +1,16 @@
+E:\dotnetlLearning\dotnetlLearning\CSio\cs_interface\bin\Debug\net5.0\cs_interface.exe
+E:\dotnetlLearning\dotnetlLearning\CSio\cs_interface\bin\Debug\net5.0\cs_interface.deps.json
+E:\dotnetlLearning\dotnetlLearning\CSio\cs_interface\bin\Debug\net5.0\cs_interface.runtimeconfig.json
+E:\dotnetlLearning\dotnetlLearning\CSio\cs_interface\bin\Debug\net5.0\cs_interface.runtimeconfig.dev.json
+E:\dotnetlLearning\dotnetlLearning\CSio\cs_interface\bin\Debug\net5.0\cs_interface.dll
+E:\dotnetlLearning\dotnetlLearning\CSio\cs_interface\bin\Debug\net5.0\ref\cs_interface.dll
+E:\dotnetlLearning\dotnetlLearning\CSio\cs_interface\bin\Debug\net5.0\cs_interface.pdb
+E:\dotnetlLearning\dotnetlLearning\CSio\cs_interface\obj\Debug\net5.0\cs_interface.csprojAssemblyReference.cache
+E:\dotnetlLearning\dotnetlLearning\CSio\cs_interface\obj\Debug\net5.0\cs_interface.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnetlLearning\dotnetlLearning\CSio\cs_interface\obj\Debug\net5.0\cs_interface.AssemblyInfoInputs.cache
+E:\dotnetlLearning\dotnetlLearning\CSio\cs_interface\obj\Debug\net5.0\cs_interface.AssemblyInfo.cs
+E:\dotnetlLearning\dotnetlLearning\CSio\cs_interface\obj\Debug\net5.0\cs_interface.csproj.CoreCompileInputs.cache
+E:\dotnetlLearning\dotnetlLearning\CSio\cs_interface\obj\Debug\net5.0\cs_interface.dll
+E:\dotnetlLearning\dotnetlLearning\CSio\cs_interface\obj\Debug\net5.0\ref\cs_interface.dll
+E:\dotnetlLearning\dotnetlLearning\CSio\cs_interface\obj\Debug\net5.0\cs_interface.pdb
+E:\dotnetlLearning\dotnetlLearning\CSio\cs_interface\obj\Debug\net5.0\cs_interface.genruntimeconfig.cache

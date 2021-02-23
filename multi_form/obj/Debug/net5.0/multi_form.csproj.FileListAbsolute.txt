@@ -1,0 +1,16 @@
+E:\dotnetlLearning\dotnetlLearning\multi_form\bin\Debug\net5.0\multi_form.exe
+E:\dotnetlLearning\dotnetlLearning\multi_form\bin\Debug\net5.0\multi_form.deps.json
+E:\dotnetlLearning\dotnetlLearning\multi_form\bin\Debug\net5.0\multi_form.runtimeconfig.json
+E:\dotnetlLearning\dotnetlLearning\multi_form\bin\Debug\net5.0\multi_form.runtimeconfig.dev.json
+E:\dotnetlLearning\dotnetlLearning\multi_form\bin\Debug\net5.0\multi_form.dll
+E:\dotnetlLearning\dotnetlLearning\multi_form\bin\Debug\net5.0\ref\multi_form.dll
+E:\dotnetlLearning\dotnetlLearning\multi_form\bin\Debug\net5.0\multi_form.pdb
+E:\dotnetlLearning\dotnetlLearning\multi_form\obj\Debug\net5.0\multi_form.csprojAssemblyReference.cache
+E:\dotnetlLearning\dotnetlLearning\multi_form\obj\Debug\net5.0\multi_form.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnetlLearning\dotnetlLearning\multi_form\obj\Debug\net5.0\multi_form.AssemblyInfoInputs.cache
+E:\dotnetlLearning\dotnetlLearning\multi_form\obj\Debug\net5.0\multi_form.AssemblyInfo.cs
+E:\dotnetlLearning\dotnetlLearning\multi_form\obj\Debug\net5.0\multi_form.csproj.CoreCompileInputs.cache
+E:\dotnetlLearning\dotnetlLearning\multi_form\obj\Debug\net5.0\multi_form.dll
+E:\dotnetlLearning\dotnetlLearning\multi_form\obj\Debug\net5.0\ref\multi_form.dll
+E:\dotnetlLearning\dotnetlLearning\multi_form\obj\Debug\net5.0\multi_form.pdb
+E:\dotnetlLearning\dotnetlLearning\multi_form\obj\Debug\net5.0\multi_form.genruntimeconfig.cache
