@@ -1,0 +1,15 @@
+/Users/seanwang/dotnetlLearning/CSArray/ex_ArrayList/bin/Debug/net5.0/ex_ArrayList.deps.json
+/Users/seanwang/dotnetlLearning/CSArray/ex_ArrayList/bin/Debug/net5.0/ex_ArrayList.runtimeconfig.json
+/Users/seanwang/dotnetlLearning/CSArray/ex_ArrayList/bin/Debug/net5.0/ex_ArrayList.runtimeconfig.dev.json
+/Users/seanwang/dotnetlLearning/CSArray/ex_ArrayList/bin/Debug/net5.0/ex_ArrayList.dll
+/Users/seanwang/dotnetlLearning/CSArray/ex_ArrayList/bin/Debug/net5.0/ref/ex_ArrayList.dll
+/Users/seanwang/dotnetlLearning/CSArray/ex_ArrayList/bin/Debug/net5.0/ex_ArrayList.pdb
+/Users/seanwang/dotnetlLearning/CSArray/ex_ArrayList/obj/Debug/net5.0/ex_ArrayList.csprojAssemblyReference.cache
+/Users/seanwang/dotnetlLearning/CSArray/ex_ArrayList/obj/Debug/net5.0/ex_ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seanwang/dotnetlLearning/CSArray/ex_ArrayList/obj/Debug/net5.0/ex_ArrayList.AssemblyInfoInputs.cache
+/Users/seanwang/dotnetlLearning/CSArray/ex_ArrayList/obj/Debug/net5.0/ex_ArrayList.AssemblyInfo.cs
+/Users/seanwang/dotnetlLearning/CSArray/ex_ArrayList/obj/Debug/net5.0/ex_ArrayList.csproj.CoreCompileInputs.cache
+/Users/seanwang/dotnetlLearning/CSArray/ex_ArrayList/obj/Debug/net5.0/ex_ArrayList.dll
+/Users/seanwang/dotnetlLearning/CSArray/ex_ArrayList/obj/Debug/net5.0/ref/ex_ArrayList.dll
+/Users/seanwang/dotnetlLearning/CSArray/ex_ArrayList/obj/Debug/net5.0/ex_ArrayList.pdb
+/Users/seanwang/dotnetlLearning/CSArray/ex_ArrayList/obj/Debug/net5.0/ex_ArrayList.genruntimeconfig.cache
