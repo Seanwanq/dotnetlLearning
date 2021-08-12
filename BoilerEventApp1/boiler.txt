@@ -1,0 +1,27 @@
+
+----------------------------
+
+Logging Info:
+
+Temparature 170
+Pressure: 12
+
+Message: Need Maintenance
+
+----------------------------
+
+Logging Info:
+
+Temparature 130
+Pressure: 12
+
+Message: O. K
+
+----------------------------
+
+Logging Info:
+
+Temparature 130
+Pressure: 14
+
+Message: O. K

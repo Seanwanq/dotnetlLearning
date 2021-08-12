@@ -1,0 +1,16 @@
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\FileRW\bin\Debug\net5.0\FileRW.exe
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\FileRW\bin\Debug\net5.0\FileRW.deps.json
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\FileRW\bin\Debug\net5.0\FileRW.runtimeconfig.json
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\FileRW\bin\Debug\net5.0\FileRW.runtimeconfig.dev.json
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\FileRW\bin\Debug\net5.0\FileRW.dll
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\FileRW\bin\Debug\net5.0\ref\FileRW.dll
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\FileRW\bin\Debug\net5.0\FileRW.pdb
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\FileRW\obj\Debug\net5.0\FileRW.csproj.AssemblyReference.cache
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\FileRW\obj\Debug\net5.0\FileRW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\FileRW\obj\Debug\net5.0\FileRW.AssemblyInfoInputs.cache
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\FileRW\obj\Debug\net5.0\FileRW.AssemblyInfo.cs
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\FileRW\obj\Debug\net5.0\FileRW.csproj.CoreCompileInputs.cache
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\FileRW\obj\Debug\net5.0\FileRW.dll
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\FileRW\obj\Debug\net5.0\ref\FileRW.dll
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\FileRW\obj\Debug\net5.0\FileRW.pdb
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\FileRW\obj\Debug\net5.0\FileRW.genruntimeconfig.cache

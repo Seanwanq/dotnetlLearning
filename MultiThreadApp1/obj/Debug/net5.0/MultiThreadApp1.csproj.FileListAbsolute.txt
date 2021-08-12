@@ -1,0 +1,16 @@
+C:\Users\seanw\projects\csharp\dotnetlLearning\MultiThreadApp1\bin\Debug\net5.0\MultiThreadApp1.exe
+C:\Users\seanw\projects\csharp\dotnetlLearning\MultiThreadApp1\bin\Debug\net5.0\MultiThreadApp1.deps.json
+C:\Users\seanw\projects\csharp\dotnetlLearning\MultiThreadApp1\bin\Debug\net5.0\MultiThreadApp1.runtimeconfig.json
+C:\Users\seanw\projects\csharp\dotnetlLearning\MultiThreadApp1\bin\Debug\net5.0\MultiThreadApp1.runtimeconfig.dev.json
+C:\Users\seanw\projects\csharp\dotnetlLearning\MultiThreadApp1\bin\Debug\net5.0\MultiThreadApp1.dll
+C:\Users\seanw\projects\csharp\dotnetlLearning\MultiThreadApp1\bin\Debug\net5.0\ref\MultiThreadApp1.dll
+C:\Users\seanw\projects\csharp\dotnetlLearning\MultiThreadApp1\bin\Debug\net5.0\MultiThreadApp1.pdb
+C:\Users\seanw\projects\csharp\dotnetlLearning\MultiThreadApp1\obj\Debug\net5.0\MultiThreadApp1.csproj.AssemblyReference.cache
+C:\Users\seanw\projects\csharp\dotnetlLearning\MultiThreadApp1\obj\Debug\net5.0\MultiThreadApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seanw\projects\csharp\dotnetlLearning\MultiThreadApp1\obj\Debug\net5.0\MultiThreadApp1.AssemblyInfoInputs.cache
+C:\Users\seanw\projects\csharp\dotnetlLearning\MultiThreadApp1\obj\Debug\net5.0\MultiThreadApp1.AssemblyInfo.cs
+C:\Users\seanw\projects\csharp\dotnetlLearning\MultiThreadApp1\obj\Debug\net5.0\MultiThreadApp1.csproj.CoreCompileInputs.cache
+C:\Users\seanw\projects\csharp\dotnetlLearning\MultiThreadApp1\obj\Debug\net5.0\MultiThreadApp1.dll
+C:\Users\seanw\projects\csharp\dotnetlLearning\MultiThreadApp1\obj\Debug\net5.0\ref\MultiThreadApp1.dll
+C:\Users\seanw\projects\csharp\dotnetlLearning\MultiThreadApp1\obj\Debug\net5.0\MultiThreadApp1.pdb
+C:\Users\seanw\projects\csharp\dotnetlLearning\MultiThreadApp1\obj\Debug\net5.0\MultiThreadApp1.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\txtWrite\bin\Debug\net5.0\txtWrite.exe
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\txtWrite\bin\Debug\net5.0\txtWrite.deps.json
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\txtWrite\bin\Debug\net5.0\txtWrite.runtimeconfig.json
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\txtWrite\bin\Debug\net5.0\txtWrite.runtimeconfig.dev.json
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\txtWrite\bin\Debug\net5.0\txtWrite.dll
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\txtWrite\bin\Debug\net5.0\ref\txtWrite.dll
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\txtWrite\bin\Debug\net5.0\txtWrite.pdb
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\txtWrite\obj\Debug\net5.0\txtWrite.csproj.AssemblyReference.cache
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\txtWrite\obj\Debug\net5.0\txtWrite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\txtWrite\obj\Debug\net5.0\txtWrite.AssemblyInfoInputs.cache
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\txtWrite\obj\Debug\net5.0\txtWrite.AssemblyInfo.cs
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\txtWrite\obj\Debug\net5.0\txtWrite.csproj.CoreCompileInputs.cache
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\txtWrite\obj\Debug\net5.0\txtWrite.dll
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\txtWrite\obj\Debug\net5.0\ref\txtWrite.dll
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\txtWrite\obj\Debug\net5.0\txtWrite.pdb
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\txtWrite\obj\Debug\net5.0\txtWrite.genruntimeconfig.cache

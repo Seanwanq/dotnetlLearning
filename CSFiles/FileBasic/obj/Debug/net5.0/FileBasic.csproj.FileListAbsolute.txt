@@ -1,0 +1,16 @@
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\FileBasic\bin\Debug\net5.0\FileBasic.exe
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\FileBasic\bin\Debug\net5.0\FileBasic.deps.json
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\FileBasic\bin\Debug\net5.0\FileBasic.runtimeconfig.json
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\FileBasic\bin\Debug\net5.0\FileBasic.runtimeconfig.dev.json
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\FileBasic\bin\Debug\net5.0\FileBasic.dll
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\FileBasic\bin\Debug\net5.0\ref\FileBasic.dll
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\FileBasic\bin\Debug\net5.0\FileBasic.pdb
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\FileBasic\obj\Debug\net5.0\FileBasic.csproj.AssemblyReference.cache
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\FileBasic\obj\Debug\net5.0\FileBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\FileBasic\obj\Debug\net5.0\FileBasic.AssemblyInfoInputs.cache
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\FileBasic\obj\Debug\net5.0\FileBasic.AssemblyInfo.cs
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\FileBasic\obj\Debug\net5.0\FileBasic.csproj.CoreCompileInputs.cache
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\FileBasic\obj\Debug\net5.0\FileBasic.dll
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\FileBasic\obj\Debug\net5.0\ref\FileBasic.dll
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\FileBasic\obj\Debug\net5.0\FileBasic.pdb
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\FileBasic\obj\Debug\net5.0\FileBasic.genruntimeconfig.cache

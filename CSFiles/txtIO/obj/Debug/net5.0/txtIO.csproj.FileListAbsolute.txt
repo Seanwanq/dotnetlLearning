@@ -1,0 +1,16 @@
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\txtIO\bin\Debug\net5.0\txtIO.exe
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\txtIO\bin\Debug\net5.0\txtIO.deps.json
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\txtIO\bin\Debug\net5.0\txtIO.runtimeconfig.json
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\txtIO\bin\Debug\net5.0\txtIO.runtimeconfig.dev.json
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\txtIO\bin\Debug\net5.0\txtIO.dll
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\txtIO\bin\Debug\net5.0\ref\txtIO.dll
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\txtIO\bin\Debug\net5.0\txtIO.pdb
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\txtIO\obj\Debug\net5.0\txtIO.csproj.AssemblyReference.cache
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\txtIO\obj\Debug\net5.0\txtIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\txtIO\obj\Debug\net5.0\txtIO.AssemblyInfoInputs.cache
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\txtIO\obj\Debug\net5.0\txtIO.AssemblyInfo.cs
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\txtIO\obj\Debug\net5.0\txtIO.csproj.CoreCompileInputs.cache
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\txtIO\obj\Debug\net5.0\txtIO.dll
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\txtIO\obj\Debug\net5.0\ref\txtIO.dll
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\txtIO\obj\Debug\net5.0\txtIO.pdb
+C:\Users\seanw\projects\csharp\dotnetlLearning\CSFiles\txtIO\obj\Debug\net5.0\txtIO.genruntimeconfig.cache
